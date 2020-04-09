@@ -3,6 +3,9 @@
 A minimalist starter for
 [gatsby-theme-sculpting](https://github.com/suziwen/gatsby-theme-sculpting).
 
+
+![screenshot](https://github.com/suziwen/gatsby-theme-sculpting/blob/master/screenshot.png)
+
 ## Installation
 
 ```sh
